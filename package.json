@@ -1,0 +1,35 @@
+{
+  "name": "doc",
+  "id": "doc",
+  "version": "0.0.1",
+  "description": "Runtime documentation tool for REPL",
+  "keywords": [  ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
+  "homepage": "https://github.com/Gozala/doc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gozala/doc.git",
+    "web": "https://github.com/Gozala/doc"
+  },
+  "bugs": {
+    "web": "http://github.com/Gozala/doc/issues/"
+  },
+  "devDependencies": {
+    "test": ">=0.0.10"
+  },
+  "dependencies": {
+    "graphquire": ">=0.6.1"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "0.4.x"
+  },
+  "scripts": {
+    "test": "node tests/test-all.js",
+    "install": "graphquire --clean --write"
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "http://jeditoolkit.com/LICENSE"
+  }]
+}
