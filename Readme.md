@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Gozala/doc.png)](http://travis-ci.org/Gozala/doc)
 # doc #
 
 Runtime documentation tool for REPL.
