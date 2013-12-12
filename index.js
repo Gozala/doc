@@ -61,6 +61,9 @@ function doc(source) {
     '\n'
   ].join(''))
 }
+
 exports.doc = doc
+exports.docAsString = extractDocs
+exports.docArgsAsString = extractArgs
 
 });
