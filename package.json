@@ -1,7 +1,7 @@
 {
   "name": "doc",
   "id": "doc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Runtime documentation tool for REPL",
   "keywords": [ "runtime", "documentation", "docs", "repl" ],
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",

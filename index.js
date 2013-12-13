@@ -64,6 +64,6 @@ function doc(source) {
 
 exports.doc = doc
 exports.docAsString = extractDocs
-exports.docArgsAsString = extractArgs
+exports.docArgsAsArray = extractArgs
 
 });
