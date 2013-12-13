@@ -1,6 +1,6 @@
 # Changes #
 
-## 0.0. / 2013-12-13 ##
+## 0.0.3 / 2013-12-13 ##
 
   - Export docAsString and docArgsAsArray for third party use
 
